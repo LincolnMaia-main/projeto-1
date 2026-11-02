@@ -1,2 +1,3 @@
 cont = 'mercado pago'
-console.log(m)
+cont = 'pagamento'
+console.log(m, p)
